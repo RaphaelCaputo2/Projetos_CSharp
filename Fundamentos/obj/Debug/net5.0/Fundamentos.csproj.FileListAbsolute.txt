@@ -1,0 +1,5 @@
+/home/raphael/Documentos/Projetos_CSharp/Fundamentos/obj/Debug/net5.0/Fundamentos.csprojAssemblyReference.cache
+/home/raphael/Documentos/Projetos_CSharp/Fundamentos/obj/Debug/net5.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphael/Documentos/Projetos_CSharp/Fundamentos/obj/Debug/net5.0/Fundamentos.AssemblyInfoInputs.cache
+/home/raphael/Documentos/Projetos_CSharp/Fundamentos/obj/Debug/net5.0/Fundamentos.AssemblyInfo.cs
+/home/raphael/Documentos/Projetos_CSharp/Fundamentos/obj/Debug/net5.0/Fundamentos.csproj.CoreCompileInputs.cache
