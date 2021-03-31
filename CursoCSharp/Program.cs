@@ -18,6 +18,7 @@ namespace CursoCSharp {
                     {"Conversoes - fundamentos", Conversoes.Executar},
                      {"Operadores Aritmeticos - fundamentos", OperadoresAritmeticos.Executar},
                         {"Operadores Relacionais- fundamentos", OperadoresRelacionais.Executar},
+                             {"Operadores Lógico- fundamentos", OperadoresLogicos.Executar},
                    
 
             });
