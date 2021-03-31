@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>dotnet-CursoCSharp-97B9E657-09D5-4059-91CA-AE3713B601E1</UserSecretsId>
+    <UserSecretsId>dotnet-CursoCSharp-</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
