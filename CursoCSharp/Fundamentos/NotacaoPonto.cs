@@ -1,11 +1,19 @@
 namespace CursoCSharp.Fundamentos
 {
- class NotacaoPonto
+  class NotacaoPonto
   {
     public static void Executar()
     {
-      int idade = 32;
-      System.Console.WriteLine(idade);
+      var saudacao = "Olá ".ToUpper().Insert(3, " World").Replace("World", "Mundo");
+      System.Console.WriteLine(saudacao);
+
+
+      string valorImportante = "OLA RAPHAEL";
+
+      System.Console.WriteLine(valorImportante?.Length);
+
+
+
     }
   }
 }
