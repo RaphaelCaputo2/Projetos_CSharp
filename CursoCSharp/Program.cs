@@ -10,7 +10,7 @@ namespace CursoCSharp
   {
     static void Main(string[] args)
     {
-        var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+      var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                         {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                         {"Comentários - Fundamentos", Comentarios.Executar},
                         {"Variaveis e Constantes- Fundamentos", VariaveisEConstantes.Executar},
@@ -33,6 +33,7 @@ namespace CursoCSharp
                             {"Estrutura ForEach-  Estruturas de Controle", EstruturaForEach.Executar},
                         // Classes e metodos
                         {"Membros - Classes e Metodos", Membros.Executar},
+                         {"Construtores - Classes e Metodos", Construtores.Executar},
 
 
                 });
