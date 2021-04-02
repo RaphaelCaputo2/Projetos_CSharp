@@ -41,6 +41,7 @@ namespace CursoCSharp
         {"Propriedades - Classes e Metodos", Props.Executar},
         {"ReadOnlye - Classes e Metodos", ReadOnly.Executar},
         {"Struct vs Classe - Classes e Metodos", StructVsClasse.Executar},
+        {"Parametros Por Referencia - Classes e Metodos", ParametrosPorReferencia.Executar},
     });
 
       central.SelecionarEExecutar();
