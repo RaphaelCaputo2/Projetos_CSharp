@@ -8,12 +8,11 @@ namespace CursoCSharp.ClassesEMetodos
 
     public string Nome { get; set; }
 
-
     public double Preco { get; set; }
-
-
-
     public double Desconto { get; set; }
+
+
+
     public double PrecoComDesconto
     {
       get => Preco - (Desconto * Preco);
