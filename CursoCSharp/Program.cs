@@ -40,6 +40,7 @@ namespace CursoCSharp
         {"Getters e Setters - Classes e Metodos", GetSet.Executar},
         {"Propriedades - Classes e Metodos", Props.Executar},
         {"ReadOnlye - Classes e Metodos", ReadOnly.Executar},
+        {"Struct vs Classe - Classes e Metodos", StructVsClasse.Executar},
     });
 
       central.SelecionarEExecutar();
