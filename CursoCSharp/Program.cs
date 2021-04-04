@@ -56,6 +56,7 @@ namespace CursoCSharp
         //Orientacao a objeto
          {"Herança - Orientação a objeto", heranca.Executar},
          {"Polimorfismo - Orientação a objeto", Polimorfismo.Executar},
+         {"Interface - Orientação a objeto", Interface.Executar},
          
     });
 
