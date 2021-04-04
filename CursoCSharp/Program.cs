@@ -6,6 +6,8 @@ using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
+using CursoCSharp.MetodosEFuncoes;
+
 namespace CursoCSharp
 {
   class Program
@@ -58,6 +60,9 @@ namespace CursoCSharp
          {"Polimorfismo - Orientação a objeto", Polimorfismo.Executar},
          {"Interface - Orientação a objeto", Interface.Executar},
          
+         // Metodos e funções
+         {"Exemplo lambda - Metodos e funções", ExemploLambda.Executar},
+
     });
 
       central.SelecionarEExecutar();
