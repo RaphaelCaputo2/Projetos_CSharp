@@ -55,6 +55,8 @@ namespace CursoCSharp
         {"Dictionary Colecoes - Classes e Metodos", DictionaryColecao.Executar},
         //Orientacao a objeto
          {"Herança - Orientação a objeto", heranca.Executar},
+         {"Polimorfismo - Orientação a objeto", Polimorfismo.Executar},
+         
     });
 
       central.SelecionarEExecutar();
