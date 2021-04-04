@@ -25,7 +25,6 @@ namespace CursoCSharp.MetodosEFuncoes
       System.Console.WriteLine(op1(2, 3));
 
 
-      ImprimirSoma op2 =
 
 
 
