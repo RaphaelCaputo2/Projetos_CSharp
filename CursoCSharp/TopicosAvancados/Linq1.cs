@@ -42,7 +42,15 @@ namespace CursoCSharp.TopicosAvancados
 
       foreach (var aluno in aprovados)
       {
-        System.Console.WriteLine(aluno.Nome);
+        System.Console.WriteLine(aluno.Idade);
+      }
+
+
+        System.Console.WriteLine("=== Chamada ===");
+      var chamada = alunos.OrderBy(a => a.Nome).Select(a => a.Nome);
+        foreach (var aluno in chamada)
+      {
+        System.Console.WriteLine(aluno);
       }
     }
   }
